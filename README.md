@@ -8,3 +8,7 @@ kebab
 exemple de funció () {
 // Exemple de codi
 }
+top cosas q me haria*text cursiu* o **text en negreta**
+-morirme
+-paja
+-dormir
