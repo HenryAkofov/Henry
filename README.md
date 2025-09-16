@@ -3,3 +3,4 @@
 - ferrari
 [Google](https://www.google.com)
 ![text alternatiu](URL de la imatge).
+*text cursiu* o **text en negreta** 
